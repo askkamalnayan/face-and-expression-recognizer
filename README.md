@@ -1,2 +1,2 @@
 # face-and-expression-recognizer
-face as well as expression recognition in  same video frame in using opencv and keras
+face as well as facial expression recognition in  same video frame using opencv and keras
